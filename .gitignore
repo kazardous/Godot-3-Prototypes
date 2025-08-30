@@ -14,3 +14,12 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Image Files
+*.kra
+*.kra~
+*.png~
+*.pxo
+
+# Exported project
+.build/
